@@ -1,0 +1,11 @@
+ Volume in drive C is OS
+ Volume Serial Number is AE1F-A64D
+
+ Directory of C:\Users\vamoh\Desktop\MyProject
+
+03/10/2019  05:36 PM    <DIR>          .
+03/10/2019  05:36 PM    <DIR>          ..
+03/10/2019  05:32 PM    <DIR>          .git
+03/10/2019  05:36 PM                 0 test.txt
+               1 File(s)              0 bytes
+               3 Dir(s)  1,104,977,510,400 bytes free
